@@ -16,7 +16,7 @@
 # Steps
 
 * Upload directory consisting of textfiles- click on "upload directory" 
-* Merge articles and order by date - click on "Marge files"
+* Merge articles and order by date - click on "Merge files"
 
 
 
